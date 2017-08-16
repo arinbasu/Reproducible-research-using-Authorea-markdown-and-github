@@ -15,5 +15,6 @@ This image was added using Authorea's image function by first hunting for the im
 
 It puts the image outside of the markdown box. 
 
-Image B was added using markdown syn
+Image B was added using markdown syntax
+
 
