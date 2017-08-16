@@ -19,7 +19,7 @@ Image B was added using markdown syntax
 
 ![Evernote Image](https://2.bp.blogspot.com/-w43bmhoixTg/WZLzI82VuNI/AAAAAAAAZJo/eNCG37MjDhgLMhjdVBimZwiXqptNF0QBACLcBGAs/s1600/Evernote.png)
 
-
+Figure 
 
 
 
