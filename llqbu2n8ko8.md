@@ -23,7 +23,7 @@ Figure 2. Image B
 
 We can add citations in only one way. If I want to cite basu, I just upload a bibtex file in the search box or search for Basu in Authorea's in built search for scholarly literature and do it. Here is the citation \cite{Smith_2012}
 
-Then I connect Authorea paper to github. I can use github to work on the paper if I want, or use a markdown editor to work on it, and remember to upload the bibtex entries to the right folders or add the images properly in the markdown syntax. This way markdown becomes my powerful tool and github becomes my powerful tool to write any paper anywere
+Then I connect Authorea paper to github. I can use github to work on the paper if I want, or use a markdown editor to work on it, and remember to upload the bibtex entries to the right folders or add the images properly in the markdown syntax. This way markdown becomes my powerful tool and github becomes my powerful tool to write any paper anywhere. 
 
 
 
