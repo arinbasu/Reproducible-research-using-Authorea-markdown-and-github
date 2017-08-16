@@ -10,4 +10,3 @@ We can add an image in one of the two ways.
 
 1. Use the Authorea's image function
 2. Use markdown's image syntax
-3.
