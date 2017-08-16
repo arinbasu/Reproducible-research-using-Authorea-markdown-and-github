@@ -4,4 +4,4 @@ We start to write a paper in Authorea using markdown. Then we add a table
 |------|-------------------|
 | Overleaf | Excellent tool for writing $LaTeX$ |
 | Authorea | Excellent tool for writing in all forms |
-| Diilinger | Great too
+| Diilinger | Great tool for o
