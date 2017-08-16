@@ -18,3 +18,4 @@ It puts the image outside of the markdown box.
 Image B was added using markdown syntax
 
 
+
