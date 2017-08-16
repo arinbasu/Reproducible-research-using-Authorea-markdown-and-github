@@ -21,7 +21,7 @@ Image B was added using markdown syntax
 
 Figure 2. Image B
 
-We can add citations in onl one
+We can add citations in only one way. 
 
 
 
