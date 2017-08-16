@@ -23,7 +23,7 @@ Figure 2. Image B
 
 We can add citations in only one way. If I want to cite basu, I just upload a bibtex file in the search box or search for Basu in Authorea's in built search for scholarly literature and do it. Here is the citation \cite{Smith_2012}
 
-In theory, this isa 
+In theory, this is
 
 
 
