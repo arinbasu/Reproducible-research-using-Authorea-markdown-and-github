@@ -13,5 +13,5 @@ We can add an image in one of the two ways.
 
 This image was added using Authorea's image function by first hunting for the image on the web, saving locally or uploading to Authorea.
 
-Itpu
+It puts the image outsid 
 
