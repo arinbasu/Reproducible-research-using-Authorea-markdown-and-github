@@ -21,7 +21,7 @@ Image B was added using markdown syntax
 
 Figure 2. Image B
 
-We can add citations in only one way. If I want to cite basu, I just upload 
+We can add citations in only one way. If I want to cite basu, I just upload a bibte
 
 
 
