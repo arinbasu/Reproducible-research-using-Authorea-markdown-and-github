@@ -8,4 +8,4 @@ We start to write a paper in Authorea using markdown. Then we add a table
 
 We can add an image in one of the two ways. 
 
-1. 
+1. Use 
