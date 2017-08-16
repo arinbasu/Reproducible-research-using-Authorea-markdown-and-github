@@ -1,1 +1,1 @@
-We statt o 
+We sta
