@@ -25,5 +25,5 @@ We can add citations in only one way. If I want to cite basu, I just upload a bi
 
 Then I connect Authorea paper to github. I can use github to work on the paper if I want, or use a markdown editor to work on it, and remember to upload the bibtex entries to the right folders or add the images properly in the markdown syntax. This way markdown becomes my powerful tool and github becomes my powerful tool to write any paper anywhere. 
 
-
+Then I create a github bridge. Port the paper over to github and start writing. When I save the paper, the paper gets saved automatically on Authorea. I do not need to worry about saving it anywhere else. I can add another reference to myself 
 
